@@ -2,7 +2,7 @@
 
 Software Development Life Cycle 
 
-**How do I interpret user needs and implement them into a program? **
+**How do I interpret user needs and implement them into a program?**
 
 The simple answer is 'user stories', a way to remind the development team that we are in fact working with people and they have needs and wants that need addressing.  and staying in contact makes this possible. 
 
